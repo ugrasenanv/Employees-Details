@@ -26,7 +26,7 @@ export default class DataTable extends React.Component {
     return (
       <div className="box">
         <div className="box-header">
-          <h3 className="box-title">Data Table With Full Features</h3>
+        <h1>Employee Details</h1>
         </div>
         {/* /.box-header */}
         <div className="box-body">
